@@ -1,6 +1,9 @@
 # Rutt-Etra TouchDesigner Component 
 Implementation of Rutt-Etra video synthesizer in TouchDesigner using GLSL shaders. 
 
+## Demo
+![ScreenShot](Demo.jpg)
+
 ## Usage
 Everything is in a self contained ```Tox``` with custom parameters. The ```Tox``` has a handful of parameters in the ```Settings``` page. I used the ArcBall camera from the palette as the camera on the main container, so you don't need to go inside the component. You can adjust the step size to get higher or lower resolution outputs (lower resolution means less lines).
 
